@@ -17,7 +17,6 @@ class RandomGuessingGame {
         d2 = JOptionPane.showInputDialog(null, "Enter the range of numbers next to minimum value:", "Input Range", JOptionPane.QUESTION_MESSAGE);
         min = Integer.parseInt(d1);
         max = Integer.parseInt(d2);
-        // visit www.nextprob.com or www.ankanpaulturza.com
         // www.github.com/ank-p-turza/random-guessing-game/
         while (reachedLimit >= 0) {
             if (reachedLimit > 0) {
