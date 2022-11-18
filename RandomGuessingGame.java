@@ -6,7 +6,6 @@ import javax.swing.JOptionPane;
  * This is just a fun project
  * Created by Ankan Paul Turza
  * Created on 24 May, 2022
- * visit www.nextprob.com or www.ankanpaulturza.com
  * www.github.com/ank-p-turza/random-guessing-game/
  */
 class RandomGuessingGame {
