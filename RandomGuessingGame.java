@@ -4,7 +4,6 @@ import javax.swing.JOptionPane;
  * Random Guessing game version 1.0.01 build 0.00.00.05
  * A simple game
  * This is just a fun project
- * Created by Ankan Paul Turza
  * Created on 24 May, 2022
  * www.github.com/ank-p-turza/random-guessing-game/
  */
